@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
-const base_url = "http://localhost:7001";
+const base_url = "https://tic-tac-toe-game-mern.onrender.com";
 
 const RecentGames = () => {
     const [games, setGames] = useState([]);

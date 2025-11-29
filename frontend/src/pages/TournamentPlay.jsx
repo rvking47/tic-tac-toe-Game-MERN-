@@ -3,7 +3,7 @@ import axios from "axios";
 import TournamentResult from "./TournamentResult";
 import { Trophy, Award, X, Circle, Play, Star, Zap } from 'lucide-react';
 
-const base_url = "http://localhost:7001";
+const base_url = "https://tic-tac-toe-game-mern.onrender.com";
 
 const emptyBoard = Array(9).fill("");
 

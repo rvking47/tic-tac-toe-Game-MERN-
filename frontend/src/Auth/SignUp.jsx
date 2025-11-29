@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import toast, { Toaster } from 'react-hot-toast';
 import axios from "axios";
 
-const base_url = "http://localhost:7001";
+const base_url = "https://tic-tac-toe-game-mern.onrender.com";
 
 const SignUp = () => {
     const [showPassword, setShowPassword] = useState(false);

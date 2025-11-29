@@ -3,7 +3,7 @@ import { Menu, X, User, Trophy, Settings, LogOut, Home, Gamepad2 } from 'lucide-
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
-const base_url = "http://localhost:7001";
+const base_url = "https://tic-tac-toe-game-mern.onrender.com";
 
 const Navbar = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
