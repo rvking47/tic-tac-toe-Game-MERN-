@@ -82,7 +82,7 @@ const Footer = () => {
                         </div>
                         <div className="mt-4">
                             <Link
-                                to="#"
+                                to="https://github.com/rvking47/tic-tac-toe-Game-MERN-"
                                 className="inline-flex items-center space-x-2 text-purple-100 hover:text-yellow-300 transition-colors duration-200 text-sm group"
                             >
                                 <span>View on GitHub</span>
