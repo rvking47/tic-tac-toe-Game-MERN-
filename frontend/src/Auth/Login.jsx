@@ -4,7 +4,7 @@ import toast, { Toaster } from 'react-hot-toast';
 import { FaEnvelope, FaLock, FaEye, FaEyeSlash, FaTrophy, FaStar } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
 
-const base_url = "http://localhost:7001";
+const base_url = "https://tic-tac-toe-game-mern.onrender.com";
 
 const Login = () => {
     const [showPassword, setShowPassword] = useState(false);
