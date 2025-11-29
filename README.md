@@ -11,7 +11,7 @@
 . Beautiful responsive UI
 
 ![Login](./screenshot/Tic-tac-toe5.png)
+![Login](./screenshot/Tic-tac-toe1.png)
 ![Login](./screenshot/Tic-tac-toe2.png)
 ![Login](./screenshot/Tic-tac-toe3.png)
 ![Login](./screenshot/Tic-tac-toe4.png)
-![Login](./screenshot/Tic-tac-toe1.png)
